@@ -48,7 +48,12 @@ npm run dev
 
 ## Creators
 
-Link: [Github](https://github.com/navjot1995) / [LinkedIn](https://www.linkedin.com/in/navjot-mall/)
+Link Navjot Mall: [Github](https://github.com/navjot1995) / [LinkedIn](https://www.linkedin.com/in/navjot-mall/)
+Link Parteek Singh: [Github](https://github.com/prateeksingh200) / [LinkedIn](https://www.linkedin.com/in/prateeksingh200/)
+
+## Demo
+
+Link: [App](https://prateeksingh-portfolio.vercel.app)
 
 ## Get involved
 
